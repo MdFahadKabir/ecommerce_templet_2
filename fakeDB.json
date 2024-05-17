@@ -1,0 +1,94 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "imageSrc": "https://i.ibb.co/5xM8gjF/tshirt1.png",
+      "category": "Premium T-Shirt",
+      "title": "Comfortable Premium T-Shirt",
+      "price": "700",
+      "discountedPrice": "800",
+      "description": "Experience the comfort and style of our premium t-shirt. Made from high-quality fabric, this t-shirt is perfect for casual wear and everyday comfort."
+    },
+    {
+      "id": 2,
+      "imageSrc": "https://i.ibb.co/Y2p7Zrg/tshirt2.png",
+      "category": " T-Shirt",
+      "title": "Soft T-Shirt",
+      "price": "600",
+      "discountedPrice": "700",
+      "description": "Go green with our t-shirt, made from sustainably sourced materials. This comfortable and eco-friendly t-shirt is a must-have for conscious consumers."
+    },
+    {
+      "id": 3,
+      "imageSrc": "https://i.ibb.co/Ksm25sm/tshirt3.png",
+      "category": "Colombian T-Shirt",
+      "title": "Colombian Lover's T-Shirt",
+      "price": "1200",
+      "discountedPrice": "1400",
+      "description": "Show your love for Colombian with our exclusive t-shirt. Made from soft and durable fabric, this t-shirt is a great addition to any lover's wardrobe."
+    },
+    {
+      "id": 4,
+      "imageSrc": "https://i.ibb.co/5xM8gjF/tshirt1.png",
+      "category": "Premium T-Shirt",
+      "title": "Nut Enthusiast's T-Shirt",
+      "price": "400",
+      "discountedPrice": "500",
+      "description": "Celebrate the goodness of premium with our exclusive t-shirt. Made from comfortable cotton fabric, this t-shirt is perfect for nut enthusiasts."
+    },
+    {
+      "id": 5,
+      "imageSrc": "https://i.ibb.co/BBbQXh9/tshirt5.png",
+      "category": " Black T-Shirt",
+      "title": "Aromatic Black T-Shirt",
+      "price": "300",
+      "discountedPrice": "400",
+      "description": "Make a statement with our  black t-shirt. Crafted from soft and breathable fabric, this t-shirt is as versatile as the seeds themselves."
+    },
+    {
+      "id": 6,
+      "imageSrc": "https://i.ibb.co/5xM8gjF/tshirt1.png",
+      "category": "Premium T-Shirt",
+      "title": "Luxurious Premium T-Shirt",
+      "price": "1400",
+      "discountedPrice": "1600",
+      "description": "Express your love for premium with our exclusive t-shirt. Made from premium quality fabric, this t-shirt is as luxurious as the nuts themselves."
+    },
+    {
+      "id": 7,
+      "imageSrc": "https://i.ibb.co/Y2p7Zrg/tshirt2.png",
+      "category": "Matcha T-Shirt",
+      "title": "Zen Matcha T-Shirt",
+      "price": "800",
+      "discountedPrice": "900",
+      "description": "Embrace the zen of matcha with our stylish t-shirt. Crafted from soft and stretchy fabric, this t-shirt is perfect for yoga sessions or casual wear."
+    },
+    {
+      "id": 8,
+      "imageSrc": "https://i.ibb.co/Ksm25sm/tshirt3.png",
+      "category": "Ethiopian T-Shirt",
+      "title": "Exotic Ethiopian T-Shirt",
+      "price": "1000",
+      "discountedPrice": "1200",
+      "description": "Indulge in the exotic flavors of Ethiopian with our exclusive t-shirt. Made from premium quality fabric, this t-shirt is a tribute to the rich heritage of Ethiopia."
+    },
+    {
+      "id": 9,
+      "imageSrc": "https://i.ibb.co/5xM8gjF/tshirt1.png",
+      "category": "Premium T-Shirt",
+      "title": "Classic Premium T-Shirt",
+      "price": "1000",
+      "discountedPrice": "1200",
+      "description": "Declare your love for premium with our exclusive t-shirt. Made from soft and breathable fabric, this t-shirt is perfect for almond enthusiasts."
+    },
+    {
+      "id": 10,
+      "imageSrc": "https://i.ibb.co/BBbQXh9/tshirt5.png",
+      "category": "T-Shirt",
+      "title": "Delightful T-Shirt",
+      "price": "500",
+      "discountedPrice": "600",
+      "description": "Add a dash of flavor to your wardrobe with our t-shirt. Made from premium quality fabric, this t-shirt is as bold and aromatic as the seeds themselves."
+    }
+  ]
+}

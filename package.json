@@ -1,0 +1,27 @@
+{
+  "name": "favrio-clothing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "json-server": "json-server --watch fakeDB.json --port 8000",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "json-server": "^1.0.0-alpha.23",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.0",
+    "swiper": "^11.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
